@@ -105,22 +105,22 @@ function myFunction1(event){
   if ( key === "w"){
     var audio1 = new Audio("Anime wow sound effect [TubeRipper.com].mp3");
     audio1.play() ;
-    audio1.volume = 0.5;
+    audio1.volume = 0.25;
   } 
   if ( key === "a"){
     var audio2 = new Audio("Cartoon Bonk Sound Effect [TubeRipper.com].mp3");
     audio2.play() ;
-    audio2.volume = 0.5;
+    audio2.volume = 0.25;
   }  
   if ( key === "s"){
     var audio3 = new Audio("https://www.vibrationdata.com/piano_C_sharp.mp3");
     audio3.play() ;
-    audio3.volume = 0.5;
+    audio3.volume = 0.25;
   } 
   if (key === "d"){
     var audio4 = new Audio("Slap oh Sound effect [TubeRipper.com].mp3");
     audio4.play() ;
-    audio4.volume = 0.5;
+    audio4.volume = 0.25;
   }  
   if ( key === "j"){
     var audio5 = new Audio("رياكشن وفرها في جيبك يالعبد [TubeRipper.com].mp3");
@@ -130,7 +130,7 @@ function myFunction1(event){
   if ( key === "k"){
     var audio6 = new Audio("DiEs fRoM cRiNgE (android notification earrape meme) [TubeRipper.com].mp3");
     audio6.play(); 
-    audio6.volume = 0.5;
+    audio6.volume = 0.25;
   }
   if ( key === "l"){
     var audio7 = new Audio("sounds\tom-4.mp3");
